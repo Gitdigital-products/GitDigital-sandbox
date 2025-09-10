@@ -19,3 +19,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## ✅ Commit History (initial commits)
+```bash
+git init
+git add .
+git commit -m "feat(docker): add base Dockerfile and docker-compose for sandbox environment"
+git commit -m "docs(readme): add usage instructions for docker-sandbox"
+git commit -m "chore(gitignore): add docker + editor ignores"
