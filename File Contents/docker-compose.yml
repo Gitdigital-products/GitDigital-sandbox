@@ -1,0 +1,10 @@
+version: "3.9"
+
+services:
+  sandbox:
+    build: .
+    container_name: docker_sandbox
+    volumes:
+      - .:/app
+    stdin_open: true
+    tty: true
