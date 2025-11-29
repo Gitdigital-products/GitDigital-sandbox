@@ -1,0 +1,10 @@
+/src
+  /routes
+    run.py
+  /services
+    container_service.py
+  /config
+    settings.py
+main.py
+requirements.txt
+Dockerfile
